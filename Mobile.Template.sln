@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Domain", "01 - Domain", "{BD59AEC5-E327-472E-BE81-1DAE4DC37656}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Application", "03 - Application", "{AC4E6B56-06AD-4761-B904-7EA0D2A408B5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Application", "02 - Application", "{AC4E6B56-06AD-4761-B904-7EA0D2A408B5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Infrastructure", "02 - Infrastructure", "{809C2835-540C-4D71-BBE8-FDCE33175915}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Infrastructure", "03 - Infrastructure", "{809C2835-540C-4D71-BBE8-FDCE33175915}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Presenters", "04 - Presenters", "{5B3BE5CF-E46E-4F14-957F-B77D13AA3D5C}"
 EndProject
@@ -39,9 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mobile.Infrastructure.SQLit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mobile.Infrastructure.RealmDB", "Mobile.Infrastructure.RealmDB\Mobile.Infrastructure.RealmDB.csproj", "{89A5D5EC-7377-45A6-8885-C2B3A03B28F9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mobile.Infrastructure.RestApi", "Mobile.Infrastructure.RestApi\Mobile.Infrastructure.RestApi.csproj", "{671A123C-50C7-4888-9D77-22D2F47EFAE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mobile.Infrastructure.Business", "Mobile.Infrastructure.Business\Mobile.Infrastructure.Business.csproj", "{671A123C-50C7-4888-9D77-22D2F47EFAE9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mobile.Application.Core", "Mobile.Application.Core\Mobile.Application.Core.csproj", "{021DA31E-E3B9-48FC-8C34-B408F515DA93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mobile.Application.Interfaces", "Mobile.Application.Interfaces\Mobile.Application.Interfaces.csproj", "{021DA31E-E3B9-48FC-8C34-B408F515DA93}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Xamarin.Forms", "Xamarin.Forms", "{CE0C8D8E-B823-4ADC-A0C0-0D9C9861D939}"
 EndProject

@@ -4,4 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Mobile.Domain.Interfaces\Mobile.Domain.Interfaces.csproj" />
+  </ItemGroup>
+
 </Project>

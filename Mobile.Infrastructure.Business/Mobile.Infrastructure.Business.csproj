@@ -5,6 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Mobile.Application.Interfaces\Mobile.Application.Interfaces.csproj" />
+    <ProjectReference Include="..\Mobile.Application.Models\Mobile.Application.Models.csproj" />
     <ProjectReference Include="..\Mobile.Domain.Interfaces\Mobile.Domain.Interfaces.csproj" />
   </ItemGroup>
 

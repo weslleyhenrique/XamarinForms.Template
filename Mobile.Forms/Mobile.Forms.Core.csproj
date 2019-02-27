@@ -9,11 +9,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Mobile.Application.Core\Mobile.Application.Core.csproj" />
+    <ProjectReference Include="..\Mobile.Application.Interfaces\Mobile.Application.Interfaces.csproj" />
     <ProjectReference Include="..\Mobile.Application.Models\Mobile.Application.Models.csproj" />
     <ProjectReference Include="..\Mobile.Controls\Mobile.Forms.Controls.csproj" />
-    <ProjectReference Include="..\Mobile.Domain.Interfaces\Mobile.Domain.Interfaces.csproj" />
-    <ProjectReference Include="..\Mobile.Domain.Models\Mobile.Domain.Entities.csproj" />
+    <ProjectReference Include="..\Mobile.Infrastructure.Business\Mobile.Infrastructure.Business.csproj" />
   </ItemGroup>
 
   <ItemGroup>
